@@ -20,6 +20,3 @@ This project focuses on **automated brain tumor detection and segmentation** usi
 🔹 V-Net for 3D image segmentation  
 🔹 Medical image preprocessing and augmentation  
 
----
-
-Let me know if you need further refinements! 🚀
