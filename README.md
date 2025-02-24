@@ -1,5 +1,3 @@
-# Brain_Tumor_Detection
-
 
 # Brain Tumor Detection and Segmentation Using V-Net  
 
